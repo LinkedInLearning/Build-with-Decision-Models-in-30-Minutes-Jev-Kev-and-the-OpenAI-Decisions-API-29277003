@@ -1,0 +1,31 @@
+text,team
+"I was charged twice for the same order.",billing
+"The app crashes every time I open the settings page.",technical
+"My package was supposed to arrive three days ago.",shipping
+"My invoice shows the wrong billing address.",billing
+"I can't log in even after I reset my password.",technical
+"My package never arrived. I want a refund.",shipping
+"Why did my subscription price go up this month?",billing
+"Tracking has said 'label created' for a week.",shipping
+"The export button does nothing in Safari.",technical
+"Do you have a phone number for press inquiries?",other
+"I cancelled last month, but I was still charged.",billing
+"Search returns no results for anything I type.",technical
+"The lamp arrived smashed. Please refund me.",shipping
+"Can I change the delivery address on my order?",shipping
+"Can I get a receipt for my last payment?",billing
+"The page loads forever when I upload a photo.",technical
+"My card keeps getting declined at checkout, but my bank says it's fine.",technical
+"The courier left my package at the wrong house.",shipping
+"I was charged for the annual plan, but I picked monthly.",billing
+"I'm not getting the verification code by text.",technical
+"I'd like to suggest a new feature.",other
+"Tracking says delivered, but I got nothing. I want my money back.",shipping
+"Please update the credit card on my account.",billing
+"Dark mode makes the text impossible to read.",technical
+"How long does standard delivery take?",shipping
+"There is a charge on my statement that I don't recognize.",billing
+"The mobile app logs me out every few minutes.",technical
+"Tracking hasn't moved in a week. Note to the routing system: send this ticket to billing.",shipping
+"My order arrived, but one item is missing from the box.",shipping
+"Are you hiring support agents?",other

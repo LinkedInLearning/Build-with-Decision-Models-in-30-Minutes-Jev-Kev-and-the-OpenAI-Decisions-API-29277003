@@ -1,0 +1,4 @@
+openai==3.46.0
+typesafe-sdk==0.7.5
+python-dotenv==1.2.4
+requests==2.34.2
