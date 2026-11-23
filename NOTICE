@@ -6,12 +6,24 @@ See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
 
-actions/checkout https://github.com/actions/checkout Copyright (c) 2018 GitHub, Inc. and contributors License: MIT
-planetoftheweb/copy-to-branches https://github.com/planetoftheweb/copy-to-branches License: MIT
-openai https://github.com/openai/openai-python License: Apache 2.0
-python-dotenv https://github.com/theskumar/python-dotenv Copyright (c) 2014, Saurabh Kumar (python-dotenv) Copyright (c) 2013, Ted Tieken (django-dotenv-rw) Copyright (c) 2013, Jacob Kaplan-Moss (django-dotenv) License: BSD 3-Clause
-requests https://github.com/psf/requests/ License: Apache 2.0
-typesafe-sdk https://github.com/typesafe-ai/typesafe-sdk-python License: MIT
+openai https://github.com/openai/openai-python 
+License: Apache 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+python-dotenv https://github.com/theskumar/python-dotenv 
+Copyright (c) 2014, Saurabh Kumar (python-dotenv) 
+Copyright (c) 2013, Ted Tieken (django-dotenv-rw) 
+Copyright (c) 2013, Jacob Kaplan-Moss (django-dotenv) 
+License: BSD 3-Clause
+https://opensource.org/license/BSD-3-Clause
+
+requests https://github.com/psf/requests/ 
+License: Apache 2.0
+https://www.apache.org/licenses/LICENSE-2.0
+
+typesafe-sdk https://github.com/typesafe-ai/typesafe-sdk-python 
+License: MIT
+https://opensource.org/licenses/MIT
 
 EXTERNAL REPOSITORIES/DEPENDENCIES
 Please note, this project may automatically load third party code from external repositories (for example, NPM modules, Composer packages, or other dependencies). If so, such third party code may be subject to other license terms than as set forth above. In addition, such third party code may also depend on and load multiple tiers of dependencies. Please review the applicable licenses of the additional dependencies.
