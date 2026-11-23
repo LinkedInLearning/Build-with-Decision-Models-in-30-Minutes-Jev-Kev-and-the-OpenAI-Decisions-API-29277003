@@ -7,6 +7,14 @@ This is the repository for the LinkedIn Learning course `Build with Decision Mod
 
 Every AI application makes judgment calls, like which team gets a support ticket or whether an agent should issue a refund. Decision models such as Jev, Kev, and the OpenAI Decisions API answer those questions with a yes or no, a pick from your options, or a score, along with a confidence level your code can act on. In this course, learn how to put decision models to work by building a support application one judgment call at a time. Explore how to sort tickets, approve agent actions, grade replies, and route requests to the right model. Find out which tasks decision models can't handle and how to catch confident wrong answers before they reach production. By the end, you'll be ready to choose the right decision model for your own AI applications.
 
+## Learning Objectives
+
+- Explain how decision models provide structured answers and confidence scores that application code can act on.
+- Build decision-model workflows for classification, agent guardrails, response evaluation, and model routing.
+- Differentiate tasks suited to decision models from those that require generated text or multi-step reasoning.
+- Evaluate decision-model accuracy using labeled examples and identify confident incorrect answers before production.
+- Choose between Jev, Kev, and the OpenAI Decisions API based on an application's requirements.
+
 ## What You Build
 
 An AI agent has already handled eight support tickets. For each one, it drafted a reply. For some, it also proposed a refund. Nothing has been sent or refunded yet. The app makes four judgment calls first.
@@ -92,5 +100,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/build-with-decision-models-in-30-minutes-jev-kev-and-the-openai-decisions-api/make-ai-decisions-your-code-can-act-on-55959273?u=104
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQFd4H_3JTcFBw/learning-public-crop_675_1200/B56aH6Q55fGUAY-/0/1795200098188?e=2147483647&v=beta&t=3FAkOI1RyAO7wUTeferanikpuv13sZkTnB5eSLlaOpE
